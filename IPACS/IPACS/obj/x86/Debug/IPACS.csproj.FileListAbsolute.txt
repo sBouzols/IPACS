@@ -1,0 +1,15 @@
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\bin\Debug\IPACS.exe
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\bin\Debug\IPACS.pdb
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\MainWindow.baml
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\App.g.cs
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS_MarkupCompile.cache
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS.g.resources
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS.Properties.Resources.resources
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS.exe
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS.pdb
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS-Home.baml
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS-Home.g.cs
