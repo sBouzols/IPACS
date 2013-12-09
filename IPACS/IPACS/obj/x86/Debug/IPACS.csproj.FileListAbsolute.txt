@@ -13,3 +13,7 @@ C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS.exe
 C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS.pdb
 C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS-Home.baml
 C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS-Home.g.cs
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS-InfosPage.baml
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\IPACS-InfosPage.g.cs
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\AboutWindow.baml
+C:\Users\s.bouzols\Documents\GitHub\IPACS\IPACS\IPACS\obj\x86\Debug\AboutWindow.g.cs

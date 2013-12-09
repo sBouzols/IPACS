@@ -15,25 +15,13 @@ using System.Windows.Shapes;
 namespace IPACS
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for IPACS_InfosPage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class IPACS_InfosPage : Page
     {
-        public MainWindow()
+        public IPACS_InfosPage()
         {
             InitializeComponent();
         }
-
-        void QuitCmdExecuted(object target, ExecutedRoutedEventArgs e)
-        {
-            MessageBox.Show("The Quit command has been invoked");
-        }
-
-        void QuitCmdCanExecute(object sender, CanExecuteRoutedEventArgs e)
-        {
-            e.CanExecute = true;
-        }
     }
-
-    
 }

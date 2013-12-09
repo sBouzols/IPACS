@@ -1,0 +1,10 @@
+﻿<Window x:Class="IPACS.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About IPACS" Height="300" Width="300">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Margin="2" TextWrapping="Wrap" LineHeight="14" LineStackingStrategy="MaxHeight">
+            Author : s.bouzols            
+        </TextBlock>
+    </StackPanel>
+</Window>
